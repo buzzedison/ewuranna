@@ -46,7 +46,7 @@ export default function Home() {
 
             <Link href="https://www.justfreshonline.com/juices"><a>Just Fresh (Juices)</a></Link> <br/>
             
-            <Link href="https://www.pricelezz.co'"><a>Pricelezz</a></Link> <br/> <span className={styles.deal}>A website or ecommerce shop 
+            <Link href="https://www.pricelezz.co"><a>Pricelezz</a></Link> <br/> <span className={styles.deal}>A website or ecommerce shop 
             at a really good deal</span> <br/>
             
             
@@ -62,9 +62,9 @@ export default function Home() {
         </under>
       </main>
 
-      <footer className={styles.footer}>
+      {/* <footer className={styles.footer}>
        <h2> Ewuranna Smith-Quayson (c) 2022</h2>
-      </footer>
+      </footer> */}
     </div>
   )
 }
