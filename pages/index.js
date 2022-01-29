@@ -33,9 +33,10 @@ export default function Home() {
               <Link href=""><a>Mobile Money</a></Link> <br/>
               0559604429
             
-            <p></p>
+            <p> <Link href="https://paystack.com/pay/ewuranna"><a>Debit Card</a></Link></p>
               <Link href="https://www.paypal.com/paypalme/buzzedison"><a>PayPal</a></Link>
               </p>
+
           </a>
 
           <a
