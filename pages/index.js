@@ -31,8 +31,9 @@ export default function Home() {
             {/* <p>(because who doesn't like cash right?)</p> */}
             <p> <p><strong>Options:</strong> </p>
               <Link href=""><a>Mobile Money</a></Link> <br/>
+              0559604429
             
-              <Link href=""><a>Debit Card</a></Link> <br/>
+            <p></p>
               <Link href="https://www.paypal.com/paypalme/buzzedison"><a>PayPal</a></Link>
               </p>
           </a>
